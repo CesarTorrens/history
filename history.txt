@@ -2,3 +2,5 @@ esta es la historia de cesar:
 cesar quiere aprender a programar,
 y está estudiando git y github en platzi.com
 Suerte Cesar. xd
+
+Todo va bien.. ahora estamos probando GitHub.
